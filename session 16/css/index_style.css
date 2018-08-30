@@ -1,0 +1,32 @@
+
+
+#options{
+    position: fixed;
+    top: 100px;
+    left: 0px;
+    z-index: 6165;
+}
+
+#options .color-options
+{
+    padding: 10px;
+    border: solid 2px teal;
+    background-color: #ccc;
+    float: left;
+}
+#options i
+{
+    cursor: pointer;
+    background-color: teal;
+    color: #fff;
+    padding: 10px;
+    float: left;
+}
+#options ul li
+{
+    width: 25px;
+    height: 25px;
+    background-color: #09c;
+    display: inline-block;
+    cursor: pointer;
+}
